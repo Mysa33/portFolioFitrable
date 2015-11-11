@@ -1,0 +1,76 @@
+@charset "utf-8";
+/* portFolioFiltrable */
+
+/**************************************************************************************
+*								Table des matières 
+*
+1- Classes globales
+2- Navigation
+*
+*
+**************************************************************************************/
+/*************************************************************************************
+1- Classes globales
+*************************************************************************************/
+body{
+
+    background-color:#000;
+    
+}
+
+.rowMargin{
+    
+    margin-top:20px;
+}
+
+
+/*************************************************************************************
+2- Navigation
+*************************************************************************************/
+
+.contMarginTop{
+
+    margin-top:50px;
+    padding-left: 0px;
+
+    
+}
+
+header h4 {
+    
+    
+    vertical-align: text-top;
+    margin-top: 0px;
+    text-align: center;
+    color: #FFF;
+    
+}
+
+
+.menu-filter li{
+    
+    display: inline-block;
+    padding-left: 15px;
+}
+            
+.menu-filter a{
+    
+    color: aliceblue;
+}
+
+.menu-filter li span, .menu-filter li strong{
+    
+    padding-left: 10px;
+    
+    
+}
+            
+
+/***************************************
+2.1- Mes réalisations
+***************************************/
+
+.dv-web, .dv-stl {
+    
+    margin-top:10px;
+}
